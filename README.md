@@ -1,3 +1,5 @@
+https://gamebanana.com/mods/542466
+
 Mod for Bread & Fred that makes it so scissors is always picked when playing rock paper scissors. Compatible with Unity Mod Manager. Also shows scene name in mod manager log.
 
 Intended as proof of concept for Bread & Fred code mods. 
